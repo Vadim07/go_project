@@ -1,0 +1,3 @@
+WARN:	2026/01/05 07:57:56 log.go:43: 123Warn about something
+WARN:	2026/01/05 07:59:54 log.go:43: 123Warn about something
+WARN:	2026/01/05 08:00:03 log.go:43: 123Warn about something
